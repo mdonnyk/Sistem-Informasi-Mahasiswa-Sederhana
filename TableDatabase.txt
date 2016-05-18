@@ -1,0 +1,15 @@
+Mahasiswa
+- NIM*
+- Nama
+
+MataKuliah
+- Kode*
+- Nama_Makul
+- Jumlah_SKS
+- Dosen
+
+Kuliah
+- NIM
+- Kode
+- Ruang
+- Jam
