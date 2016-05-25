@@ -1,0 +1,12 @@
+Pembagian Tugas ver 1
+25/05/2016
+
+Michael Donny Kusuma - 145314031
+-Kelas Control
+
+Thomas Jacky Krisna Waluyo - 145314001
+-Kelas View
+
+Osa Joni Prakoso - 
+-Kelas Model
+-Database Connection
