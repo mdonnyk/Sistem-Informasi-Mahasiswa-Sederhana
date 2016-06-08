@@ -1,12 +1,16 @@
-Pembagian Tugas ver 1
-25/05/2016
+Pembagian Tugas ver 2.1
+7/06/2016
 
 Michael Donny Kusuma - 145314031
--Kelas Control
+-Kelas View
+-HapusMataKuliah.java
+-TambahMataKuliah.java
+-UpdatePassword.java
 
 Thomas Jacky Krisna Waluyo - 145314001
--Kelas View
+-Kelas model
 
-Osa Joni Prakoso - 
--Kelas Model
--Database Connection
+Osa Joni Prakoso - 145314067
+-Login.java
+-Logout.java
+-DatabaseManager.java
