@@ -9,8 +9,9 @@ Michael Donny Kusuma - 145314031
 
 Thomas Jacky Krisna Waluyo - 145314001
 -Kelas model
+-DatabaseManager.java ft.Osa
 
 Osa Joni Prakoso - 145314067
 -Login.java
 -Logout.java
--DatabaseManager.java
+-DatabaseManager.java ft.Jacky
