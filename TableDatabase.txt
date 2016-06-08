@@ -11,5 +11,4 @@ MataKuliah
 Kuliah
 - NIM
 - Kode
-- Ruang
-- Jam
+
